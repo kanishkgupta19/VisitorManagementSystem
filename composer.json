@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.4",
+        "twilio/sdk": "^5.39",
+        "nexmo/client": "^2.0"
+    }
+}
